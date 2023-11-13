@@ -1,0 +1,9 @@
+# ninja log v5
+1	270	7160487595154417	build.ninja	1f2e31dbc4dcf131
+33	260	7159737285603920	CMakeFiles/ObjectGL.dir/src/texture/texture.cpp.obj	dbd5d8b4548fd711
+41	272	7159737285685382	CMakeFiles/ObjectGL.dir/src/device/monitor.cpp.obj	b9c8922095d6a9f4
+6	2549	7159741184845831	CMakeFiles/ObjectGL.dir/src/test.cpp.obj	7bd5b84273b9298d
+15	790	7159739044912030	CMakeFiles/ObjectGL.dir/src/window/window.cpp.obj	a6fac548d83ecba8
+27	2891	7159739065895232	CMakeFiles/ObjectGL.dir/src/texture/image_texture.cpp.obj	9081df04ae24ae2b
+6	238	7159739408059447	CMakeFiles/ObjectGL.dir/src/buffer/frame_buffer.cpp.obj	b83d4ba8c6c38436
+2552	2704	7159741186406711	libObjectGL.a	bf04b7eede02ea7f
